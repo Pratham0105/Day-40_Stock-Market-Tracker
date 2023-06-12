@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #stockForm {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #stockData {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #stockData p {
+    margin: 5px 0;
+  }
+  
